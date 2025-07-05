@@ -1,6 +1,6 @@
 # DeTrade Fund - Website Frontend Architecture
 
-This is the **marketing website and landing page** for DeTrade Fund, built with SvelteKit. It serves as the primary showcase for the DeFi platform, featuring real-time vault metrics, dynamic APR displays, and comprehensive information about DeTrade's investment strategies. The actual trading application is accessible at [app.detrade.fund](https://app.detrade.fund).
+This is the **marketing website and landing page** for DeTrade Fund, built with SvelteKit. It serves as the primary showcase for the DeFi platform, featuring real-time vault metrics, dynamic APR displays, and comprehensive information about DeTrade's investment strategies.
 
 ## Architecture Overview
 
